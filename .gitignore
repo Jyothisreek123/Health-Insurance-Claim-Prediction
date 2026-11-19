@@ -1,0 +1,12 @@
+app.py
+ProjectOverview.txt
+health_insurance.csv
+img1.png
+img2.png
+img3.png
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
