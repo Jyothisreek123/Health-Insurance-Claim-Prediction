@@ -113,5 +113,13 @@ Health-Insurance-Prediction/
 └── .gitignore
 ```
 
+## Streamlit Application
 
+The application provides an interface for entering customer information and generating an insurance claim prediction.
+
+![Health Insurance Prediction App Demo Image 1](https://github.com/user-attachments/assets/a55f3b9c-fd3f-4564-a629-dc54b2538d7a)
+
+![Health Insurance Prediction App Demo Image 2](https://github.com/user-attachments/assets/50a94bae-6f26-48b0-8421-31c8da545378)
+
+![Health Insurance Prediction App Demo Image 3](https://github.com/user-attachments/assets/f72be276-27e5-469a-9162-bcc821bafa73)
 
